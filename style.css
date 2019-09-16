@@ -1,8 +1,9 @@
 /* ===================== layout ===================== */
 
-html, body, .capa {
+html, body {
     height: 100%;
 }
+
 
 body {
     /*background-color: rgb(31, 27, 27);*/
@@ -32,6 +33,7 @@ ul>li>a {
     text-align: center;
     vertical-align: middle;
     display: table-cell;
+    padding-top: 80px;
     
 }
 
@@ -72,11 +74,24 @@ footer {
     border: none;
     padding-bottom: 20px;
     padding-top: 20px;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
 }
 
 .divisor {
     width: 2px;
-    height: 70px;
+    height: 60px;
     background: white;
     margin: 16px 10px;
+}
+
+/*-- rodapé-textos --*/
+.textos-rodape {
+    color: white;
+    text-align: left;
+}
+
+.texto-rodape-esquerdo {
+    text-align: right;
 }
