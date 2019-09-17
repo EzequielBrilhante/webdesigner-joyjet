@@ -62,3 +62,20 @@ ul>li>a {
     height: 191px;
     margin-left: -15px;
 }
+
+.final-img {
+    margin-left: -14px;
+    width: 318px;
+    height: 292px;
+    border-radius: 5px;
+}
+
+.final-text {
+    float: right;
+    display: inline-block;
+    margin-top: -298px;
+}
+
+.final-text h3 {
+    color: #6495ED;
+}
