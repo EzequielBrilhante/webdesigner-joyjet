@@ -32,24 +32,33 @@ ul>li>a {
     padding-top: 125px;
 }
 
-.image-left-style {
-    width: 358px;
-    height: 255px;
+.card-left-style {
     display: inline-block;
     border-radius: 5px 5px 0px 0px;
 }
 
-.image-center-style {
-    width: 358px;
-    height: 255px;
+.card-center-style {
     display: inline-block;
     border-radius: 5px 5px 0px 0px;
 }
 
-.image-rigth-style {
-    width: 358px;
-    height: 255px;
+.card-rigth-style {
     display: inline-block;
     border-radius: 5px 5px 0px 0px;
 }
 
+.img-left-style {
+    width: 286px;
+    margin-left: -15px;
+}
+
+.img-center-style {
+    width: 286px;
+    margin-left: -15px;
+}
+
+.img-rigth-style {
+    width: 286px;
+    height: 191px;
+    margin-left: -15px;
+}
