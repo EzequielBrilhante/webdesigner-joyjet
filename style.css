@@ -17,7 +17,7 @@ body {
     float: right;
     padding-top: 15px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 15px;
+    font-size: 12px;
 }
 
 ul>li>a {
@@ -34,7 +34,7 @@ ul>li>a {
     vertical-align: middle;
     display: table-cell;
     padding-top: 80px;
-    
+    padding-left: 35px;
 }
 
 .text-body h1 {

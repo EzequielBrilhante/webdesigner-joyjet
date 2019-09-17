@@ -1,0 +1,55 @@
+/* ===================== layout ===================== */
+
+html, body {
+    height: 100%;
+}
+
+
+body {
+    background-color: white;
+    background-size: 100%;
+}
+
+/*-- barra de nav --*/
+.navbar-style {
+    padding-bottom: 23px;
+    background-color: #6495ED;
+}
+
+.links-style {
+    float: right;
+    padding-top: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 12px;
+}
+
+ul>li>a {
+    color: white;
+}
+
+/*-- images --*/
+.images-body {
+    padding-top: 125px;
+}
+
+.image-left-style {
+    width: 358px;
+    height: 255px;
+    display: inline-block;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.image-center-style {
+    width: 358px;
+    height: 255px;
+    display: inline-block;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.image-rigth-style {
+    width: 358px;
+    height: 255px;
+    display: inline-block;
+    border-radius: 5px 5px 0px 0px;
+}
+
